@@ -198,28 +198,29 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     const isCurrent = d.id === document.body.dataset.slug
 
     if (isCurrent) {
-      return "#cccccc" // Math-safe grey highlight
+      return "#cccccc" 
     }
 
     const idLower = d.id.toLowerCase()
 
-    if (idLower.includes("1 - rough notes")) {
+    // Looking for the hyphenated web-safe names!
+    if (idLower.includes("rough-notes")) {
       return "#f59e0b" // Amber
     }
-    if (idLower.includes("2 - source material")) {
+    if (idLower.includes("source-material")) {
       return "#3b82f6" // Blue
     }
-    if (idLower.includes("3 - tags")) {
+    if (idLower.includes("tags")) {
       return "#ec4899" // Pink
     }
-    if (idLower.includes("4 - indexes")) {
+    if (idLower.includes("indexes")) {
       return "#8b5cf6" // Purple
     }
-    if (idLower.includes("6 - main notes")) {
+    if (idLower.includes("main-notes")) {
       return "#10b981" // Green
     }
 
-    return "#94a3b8" // Math-safe slate default
+    return "#94a3b8" 
   }
 
   function nodeRadius(d: NodeData) {
