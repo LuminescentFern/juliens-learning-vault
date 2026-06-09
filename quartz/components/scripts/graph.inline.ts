@@ -194,14 +194,16 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   )
 
   // calculate color
- const color = (d: NodeData) => {
-    const idLower = d.id.toLowerCase()
+ function color(d: NodeData) {
     const isCurrent = d.id === document.body.dataset.slug
-    
+
     if (isCurrent) {
-      return "var(--highlight)" 
+      return "var(--highlight)"
     }
-    
+
+    // This is the crucial missing line!
+    const idLower = d.id.toLowerCase()
+
     if (idLower.includes("1 - rough notes")) {
       return "#f59e0b" // Amber
     }
@@ -217,9 +219,9 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     if (idLower.includes("6 - main notes")) {
       return "#10b981" // Green
     }
-    
-    return "var(--secondary)" 
-  }  
+
+    return "var(--secondary)"
+  }
 
   function nodeRadius(d: NodeData) {
     const numLinks = graphData.links.filter(
