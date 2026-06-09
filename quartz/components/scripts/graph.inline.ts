@@ -198,10 +198,9 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     const isCurrent = d.id === document.body.dataset.slug
 
     if (isCurrent) {
-      return "var(--highlight)"
+      return "#cccccc" // Math-safe grey highlight
     }
 
-    // This is the crucial missing line!
     const idLower = d.id.toLowerCase()
 
     if (idLower.includes("1 - rough notes")) {
@@ -220,7 +219,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       return "#10b981" // Green
     }
 
-    return "var(--secondary)"
+    return "#94a3b8" // Math-safe slate default
   }
 
   function nodeRadius(d: NodeData) {
