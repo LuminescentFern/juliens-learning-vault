@@ -1,2 +1,0 @@
-- [[Doing gender with pets]]
-- [[The meaning of animal sport (2)]]
