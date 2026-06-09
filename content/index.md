@@ -7,4 +7,4 @@ This is the digital library and knowledge web for my self-directed learning.
 * [[2 - Source Material]]
 * [[3 - Tags]]
 * [[4 - Indexes]]
-* [[6 - Main Notes]]
+* [[6 - Main Notes]] 
