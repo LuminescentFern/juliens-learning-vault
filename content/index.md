@@ -8,3 +8,8 @@ This is the digital library and knowledge web for my self-directed learning.
 * [[3 - Tags]]
 * [[4 - Indexes]]
 * [[6 - Main Notes]] 
+
+### Starting Points:
+* [[Consider the lobster]]
+* [[Aquatic biomes]]
+* [[Abiotics factors of a desert ecosystem]]
