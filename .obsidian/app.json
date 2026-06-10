@@ -1,0 +1,28 @@
+{
+  "userIgnoreFilters": [
+    "docs/",
+    "quartz/",
+    "quartz/cli/",
+    "quartz/components/",
+    "quartz/i18n/",
+    "quartz/plugins/",
+    "quartz/processors/",
+    "quartz/static/",
+    "quartz/static/",
+    "quartz/styles/",
+    "quartz/util/",
+    "docs/advanced/",
+    "docs/features/",
+    "docs/images/",
+    "docs/plugins/",
+    "docs/tags/",
+    "quartz/i18n/locales/",
+    "quartz/components/pages/",
+    "quartz/components/scripts/",
+    "quartz/components/styles/",
+    "quartz/plugins/emitters/",
+    "quartz/plugins/filters/",
+    "quartz/plugins/transformers/",
+    "quartz/static/giscus/"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "hidden": true,
+  "hiddenList": [
+    "quartz",
+    "CODE_OF_CONDUCT.md",
+    "README.md",
+    "docs"
+  ]
+}

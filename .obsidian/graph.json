@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "-path:quartz -path:docs - Code_of_conduct -readme -index.d.ts -package.jsn -package.lockjsn -globals.d -packagelock -dockerfile -LICEnse.txt -tsconfig -package-lock.jsn -package.jsn -package-lock.json - package.jso -codeofconductn - ",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"content/2 - Source Material\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"content/1 - Rough Notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"content/6 - Main Notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1179392
+      }
+    },
+    {
+      "query": "path:\"content/4 - Indexes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13107455
+      }
+    },
+    {
+      "query": "path:\"content/3 - Tags\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.5194916694499292,
+  "close": true
+}
