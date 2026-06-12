@@ -26,6 +26,9 @@ Animals within Institutional Contexts
 - Laboratory science is an institution with specific methods, including the use of animal models in research.
 - Other institutions involving animals include agriculture (livestock and meat production), sport and entertainment (e.g., dog fighting, zoos), and animal health and welfare (veterinary medicine and shelters).
 
+![[Coursera ZZAMXOCNN1NX.pdf]]
+
+![[Screenshot 2026-06-12 at 9.36.17 AM.png]]
 
 # References
 

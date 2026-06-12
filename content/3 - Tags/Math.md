@@ -9,3 +9,4 @@
 - [[Environmental limits and population growth]]
 - [[Population dynamics and regulation]]
 - [[Human population growth]]
+- [[Conducting a census]]

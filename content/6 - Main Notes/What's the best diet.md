@@ -6,7 +6,7 @@
 
 Status: #child
 
-Tags: [[Ecology]], [[Cultural Anthropology]], [[Ethics]], [[Nutrition and diet]]
+Tags: [[Ecology]], [[Cultural Anthropology]], [[Ethics]], [[Nutrition and diet]], [[Physical Wellness]]
 
 # What's the best diet?
 

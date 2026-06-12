@@ -27,6 +27,8 @@ Animal Rights and Welfare
 - Traces the historical and philosophical foundations of animal moral status and treatment in Western thought.
 - Differentiates between animal welfare and animal rights perspectives, featuring key works like Peter Singer's "Animal Liberation" and Tom Regan's arguments, and concludes with reflections on ethical considerations in human-animal relationships.
 
+![[Coursera ZYUSRG5OANJJ.pdf]]
+![[Screenshot 2026-06-12 at 9.37.28 AM.png]]
 # References
 
 [The changing status and perception of animals ](https://www.coursera.org/learn/perception-of-animals/home/welcome)

@@ -67,3 +67,4 @@
 - [[Sámi keep life focused on reindeer herding]]
 - [[Why do more people live near the equator?]]
 - [[How humans impact the natural world]]
+- [[The importance of biodiversity to human life]]

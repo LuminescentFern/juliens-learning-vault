@@ -7,7 +7,7 @@
   
 # Intro to Biology: Ecology
   
-- [[Geographic distribution modeling]]
+- [[Geographic distribution modeling 1]]
 - [[Mangrove islands]]
 - [[Sea stars experiment]]
 - [[Conducting a population census]]

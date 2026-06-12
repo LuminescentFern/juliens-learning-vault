@@ -29,6 +29,10 @@ Encounters with Wild Animals
   
 
 ![[animals self and society certificate.pdf]]
+![[Screenshot 2026-06-12 at 9.29.50 AM.png]]
+
+
 # References
 
 [Animals, Self and Society](https://www.coursera.org/learn/animals-self-society/home/welcome)
+

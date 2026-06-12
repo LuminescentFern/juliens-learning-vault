@@ -25,6 +25,11 @@ Goals and Outcomes
 
 - Aims to inspire curiosity and awareness about the natural world and human roles within it.
 - Seeks to motivate learners to appreciate biodiversity and possibly pursue ecology further, even if not as a career.
+  
+  ![[Coursera WHJ9AYYINTE4.pdf]]
+![[Screenshot 2026-06-12 at 9.32.36 AM.png]]
+
+![[Screenshot 2026-06-12 at 9.32.54 AM.png]]
 
 # References
 
